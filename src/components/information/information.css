@@ -1,0 +1,64 @@
+* {
+    font-weight: bold;
+}
+
+.chart_page {
+    padding-top: 70px;
+    width: 1700px;
+    margin: auto;
+}
+
+.coin_name {
+    font-size: xx-large;
+    margin: 20px 0px;
+    color: darkred;
+}
+
+.Information {
+    width: 1000px;
+    height: 200px;
+    margin:auto;
+}
+
+.Information_curyes {
+    width: 300px;
+    height: 60px;
+    display: inline-block;
+}
+
+.Information_current {
+    width: 300px;
+    height: 40px;
+    display: inline-block;
+    font-size:x-large;
+    color: red;
+}
+
+.Information_yesterdat{
+    margin-left: 20px;
+    height: 20px;
+    display: inline-block;
+    color: red;
+}
+
+.Information_table {
+    height: 60px;
+    float: right;
+    text-align: center;
+}
+
+.table_name {
+    color: darkred;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.table_name1 {
+    color: darkred;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.highlow {
+    color: red;
+}
