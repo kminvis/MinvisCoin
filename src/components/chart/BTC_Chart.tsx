@@ -1,6 +1,5 @@
 import React from 'react';
-import './Chart.css'
-
+import './chart.css'
 
 export const Chart = () => {
 

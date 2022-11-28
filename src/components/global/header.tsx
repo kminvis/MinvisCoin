@@ -13,7 +13,7 @@ function Header() {
                 <div className='header_link'>
                     <ul>
                         <li>
-                            <Link to="/BTC"className='header_linklist'>비트코인</Link>
+                            <Link to="/python"className='header_linklist'>파이썬</Link>
                         </li>
                         <li>
                             <Link to="/ETH"className='header_linklist'>이더리움</Link>
